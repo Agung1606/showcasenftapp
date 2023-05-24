@@ -45,7 +45,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetsUrl={assets.expo}
-              link="https://my-portofolio-1a1j.vercel.app/"
+              link="exp://exp.host/@agngsptra/NftApp?release-channel=default"
             />
           )}
         </div>
